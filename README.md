@@ -36,3 +36,17 @@ USE - 1 for Player One & 2 for Player Two
     [1, 2, 1]
 
 OUTPUT - Player 1/2 wins
+
+
+## Gameplay Setup
+
+I. Running on Python IDLE
+
+   1. New File -> Paste The Code or Open Tic-Tac-Toe.py
+   2. Run -> Run Module (F5)
+   3. Enjoy Playing it.
+ 
+II. Run it on Jupyter Notebook
+
+   1. Upload Tic-Tac-Toe.ipynb
+   2. Run it.
