@@ -1,19 +1,19 @@
 # Tic-Tac-Toe
 a) Created a tic-tac-toe game using a 3x3 2D list in python.
 
-b) It Should be 2-Player turn-based game.
+b) It is a 2-Player turn-based game.
 
-Game end when - 
+Game ends when - 
 
    1. Either one of the player wins.
-   2. There is no space left in the game box
+   2. There is no space left in the game box.
 
-The game declare the winner or declare a draw in case no one wins
+The game declares the winner or declare a draw in case no one wins.
 
 **INPUT STYLE**
 
-The player must enter the position where he/she wants to place the mark (0 to 8)
-The player turn must be automatically set
+The player must enter the position where he/she wants to place the mark (0 to 8).
+The player turn must be automatically set.
 
 **GAME FORMAT**
 
