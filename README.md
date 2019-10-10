@@ -27,7 +27,7 @@ The player turn must be automatically set.
     [0, 0, 0]
     [0, 0, 0]
 
-USE - 1 for Player One & 2 for Player Two
+*USE - 1 for Player One & 2 for Player Two*
 
 **WINNING EXAMPLE FORMAT**
 
@@ -35,7 +35,7 @@ USE - 1 for Player One & 2 for Player Two
     [1, 2, 0]
     [1, 2, 1]
 
-OUTPUT - Player 1/2 wins
+*OUTPUT - Player 1/2 wins*
 
 
 ## Gameplay Setup
